@@ -1,6 +1,8 @@
 # Subdivision-of-Human-Substantia-Nigra
 
+![alt text][parcellation scheme]
 
+[parcellation scheme] (https://github.com/zhangyu2ustc/Subdivision-of-Human-Substantia-Nigra/blob/master/Figure1_parcellation_scheme.png)
 
 We investigated the anatomical and functional organization of the human substantia nigra (SN) using diffusion and functional MRI data from the Human Connectome Project.  A tripartite connectivity-based parcellation of SN was identified with a limbic, cognitive, motor arrangement. 
 
